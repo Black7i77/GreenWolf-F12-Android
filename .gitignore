@@ -1,0 +1,13 @@
+# Android / Gradle
+.gradle/
+**/build/
+local.properties
+.idea/
+*.iml
+# Do not commit signing credentials
+*.jks
+*.keystore
+*.p12
+# Operating system
+.DS_Store
+Thumbs.db
